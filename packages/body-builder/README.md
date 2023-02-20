@@ -5,7 +5,7 @@ Elastic Search DSL body 构建工具
 ## Install
 
 ```bash
-npm install @finance/es-body-builder
+npm install es-body-builder
 ```
 
 ## Usage

@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-npm install @finance/risk-es
+npm install es-client
 ```
 
 ## Usage
