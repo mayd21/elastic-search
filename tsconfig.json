@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "lib": ["esnext"],
+    "removeComments": true,
+    "experimentalDecorators": true,
+    "declaration": true,
+    "target": "es6",
+    "sourceMap": true,
+    "strict": true,
+    "strictPropertyInitialization": false,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true,
+    "pretty": true,
+    "allowJs": true,
+    "inlineSources": true
+  }
+}
